@@ -3,3 +3,4 @@ WorkflowGoals
 SetupInstructions
 PipelineFeatures
 Dependencies
+UsageGuide
