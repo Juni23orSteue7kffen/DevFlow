@@ -4,3 +4,4 @@ SetupInstructions
 PipelineFeatures
 Dependencies
 UsageGuide
+ConfigurationSettings
