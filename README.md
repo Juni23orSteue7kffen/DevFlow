@@ -5,3 +5,4 @@ PipelineFeatures
 Dependencies
 UsageGuide
 ConfigurationSettings
+CollaborationGuidelines
