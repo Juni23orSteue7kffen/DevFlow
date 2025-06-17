@@ -6,3 +6,4 @@ Dependencies
 UsageGuide
 ConfigurationSettings
 CollaborationGuidelines
+ErrorHandling
