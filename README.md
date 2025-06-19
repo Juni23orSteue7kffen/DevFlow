@@ -7,3 +7,4 @@ UsageGuide
 ConfigurationSettings
 CollaborationGuidelines
 ErrorHandling
+LicenseInformation
