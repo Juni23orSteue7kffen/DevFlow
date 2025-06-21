@@ -8,3 +8,4 @@ ConfigurationSettings
 CollaborationGuidelines
 ErrorHandling
 LicenseInformation
+DeveloperFAQ
