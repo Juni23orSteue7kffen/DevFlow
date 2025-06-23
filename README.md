@@ -9,3 +9,4 @@ CollaborationGuidelines
 ErrorHandling
 LicenseInformation
 DeveloperFAQ
+ReleaseHistory
