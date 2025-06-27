@@ -11,3 +11,4 @@ LicenseInformation
 DeveloperFAQ
 ReleaseHistory
 TestingProcedures
+PerformanceBenchmarks
