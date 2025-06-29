@@ -12,3 +12,4 @@ DeveloperFAQ
 ReleaseHistory
 TestingProcedures
 PerformanceBenchmarks
+SupportChannels
